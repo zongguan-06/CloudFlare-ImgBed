@@ -38,7 +38,7 @@ This feature changes a workflow file. Existing forks may need to use GitHub's **
           "Storage connectivity should be verified after the update"
         ]
       },
-      "announcementUrl": "https://github.com/MarSeventh/CloudFlare-ImgBed/releases/tag/v3.0.0",
+      "announcementUrl": "//releases/tag/v3.0.0",
       "migrationUrl": "https://example.com/migration-guide"
     }
   ]
